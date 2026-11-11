@@ -1,5 +1,5 @@
 
-**Privacy Policy for `Nangman Develop`
+**Privacy Policy for `Nangman Develop`**
 
 `Nangman Develop` (hereinafter referred to as the "App") values user privacy and complies with relevant laws and regulations regarding personal information protection.
 
