@@ -1,26 +1,28 @@
-`낭만성경` 개인정보처리방침
 
-`낭만성경`은(는) 이용자의 개인정보를 중요시하며, "정보통신망 이용촉진 및 정보보호"에 관한 법률 및 관련 법령을 준수하고 있습니다.
+**Privacy Policy for `Nangman Develop`
 
-1. 개인정보의 수집 및 이용 목적
-본 앱은 별도의 회원가입 없이 이용할 수 있으며, 개발자는 사용자의 개인식별정보(이름, 이메일, 전화번호 등)를 서버에 직접 수집하거나 저장하지 않습니다.
+`Nangman Develop` (hereinafter referred to as the "App") values user privacy and complies with relevant laws and regulations regarding personal information protection.
 
-2. 위치정보(Location Data) 처리
-본 앱 또는 앱에 포함된 제3자 서비스(광고 SDK 등)는 서비스 제공 및 최적화를 위해 위치 정보에 접근하거나 사용할 수 있습니다.
-- **수집/접근 항목**: 대략적인 위치(네트워크 기반) 또는 정확한 위치(GPS 기반)
-- **이용 목적**: 맞춤형 광고 제공, 위치 기반 서비스 연동 및 앱 기능 최적화
-- **보유 및 이용 기간**: 위치 정보는 앱 내 처리 또는 광고 네트워크를 통해서만 활용되며, 개발자가 별도의 외부 서버에 수집·저장하지 않습니다.
+**1. Collection and Use of Personal Information**
+The App can be used without a separate user registration. The developer does not directly collect or store users' personally identifiable information (such as name, email, phone number, etc.) on any external server.
 
-3. 제3자 서비스 및 쿠키/광고 ID 수집
-본 앱은 서비스 제공, 분석 및 맞춤형 광고 제공을 위해 아래와 같은 제3자 SDK 및 모듈을 사용합니다. 이 과정에서 구글 광고 ID(AAID), 기기 식별 정보, 위치 관련 데이터가 자동으로 수집·처리될 수 있습니다.
+**2. Processing of Location Data**
+The App or third-party services included in the App (such as advertising SDKs) may access or use location information to provide and optimize services.
 
-- **Google AdMob (광고 서비스)**: https://policies.google.com/privacy
+* **Data Collected/Accessed:** Approximate location (network-based) or precise location (GPS-based).
+* **Purpose of Use:** Provision of personalized ads, integration of location-based services, and app function optimization.
+* **Retention and Use Period:** Location information is utilized only within the app processing or through advertising networks and is not collected or stored by the developer on any separate external server.
 
-4. 개인정보의 보유 및 이용기간
-본 앱은 사용자의 개인식별정보를 직접 저장하지 않으므로 개발자가 자체적으로 보유하는 개인정보가 없습니다.
+**3. Third-Party Services and Cookie/Advertising ID Collection**
+The App uses the following third-party SDKs and modules for service provision, analysis, and personalized advertising. In this process, Google Advertising ID (AAID), device identification information, and location-related data may be automatically collected and processed.
 
-5. 개인정보 보호책임자 및 문의처
-앱 이용 중 개인정보 관련 문의사항이 있으신 경우 아래 연락처로 문의해 주시기 바랍니다.
+* **Google AdMob (Advertising Service):** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-- 이메일: nangman.develop@gmail.com
-- 시행일자: 2026년 8월 7일 (최종 수정일: 2026년 10월 18일)
+**4. Retention and Use Period of Personal Information**
+Since the App does not directly store users' personally identifiable information, the developer does not retain any personal data independently.
+
+**5. Privacy Officer and Contact Information**
+If you have any questions regarding privacy while using the App, please contact us below.
+
+* **Email:** nangman.develop@gmail.com
+* **Effective Date:** August 7, 2026 (Last Updated: October 18, 2026)
